@@ -11,7 +11,7 @@ h1{
 
 }
 .nav, a{
-  background-image: url("../resources/images/the-flatiron-building.png");
+  background-image: url("./images/the-flatiron-building.png");
   font-size: 18 px;
   color: white;
   font-size: 32 px;
@@ -28,4 +28,15 @@ h3{
 p{
     font-size: 18 px;
     font-weight: normal;
+}
+
+.design{
+  background-image: url("./images/the-flatiron-building.png");
+  color: white;
+}
+#copyright{
+  font-size: 11 px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
